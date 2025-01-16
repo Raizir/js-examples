@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "index": "http-server . -p 9000",
+    "basic-modules-example": "http-server module-examples/basic-modules -p 9000"
+  }
+}
