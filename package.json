@@ -6,5 +6,6 @@
   "scripts": {
     "index": "http-server . -p 9000",
     "basic-modules-example": "http-server module-examples/basic-modules -p 9000"
-  }
+  },
+  "type":"module"
 }
